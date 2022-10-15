@@ -1,5 +1,5 @@
 # alcUBA
-Proyectos en python notebooks de la materia álgebra lineal computacional de la Universidad de Buenos Aires
+Proyectos en python notebooks de la materia álgebra lineal computacional de la Universidad de Buenos Aires.
 
 Trabajo Práctico 1:
 El objetivo de este trabajo práctico es comparar el desempeño de algoritmos de descomposición de matrices para resolución de sistemas de ecuaciones lineales, implementándolos y aplicándolos a distintas matrices. Por esta razón, no está permitido utilizar los comandos np.linalg.solve ni np.linalg.inv para resolver las consignas.
